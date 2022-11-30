@@ -1,0 +1,8 @@
+.hero-main{
+    background-image: url('https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/story/hero_image/Some-Mercedes-Benz-Cars.jpg');
+    width: 100%;
+    height: 80%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

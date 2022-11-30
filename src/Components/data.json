@@ -1,0 +1,38 @@
+[
+    {
+        "model": "Porsche",
+        "totalCars": 240,
+        "totalSellers": 34,
+        "lowestPrice": "230K",
+        "heightPrice": "56K",
+        "Img": "https://blogger.googleusercontent.com/img/a/AVvXsEiDEJtb0WxQS9tSRwzRu-lLWeIC8V4L007N0yGOY5dCkgpr-DmTz620uKs52cqKuINZ0eRIGmx4l7_4cja6o7YCvF7qLH2Z2cI21OfiW1jcrJD1R5WxWot8Rk70_Ue8f5qV2xp7Gu6lOJ2H7TLbxSsGIwTJTyWPu3zIuDx-LxJ1t4pi2Iv59BrDAxflJA",
+        "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjmfpI9Dr8TN97bhkoPBsTZBlzQ_PDLwLz_Ar0vS7NXwV6UgrO4pFUjcNkVXtUhSUeMagrWEWyFkB0vzeeBAY0JKsSL1yzGixYvIB4QpfFl9OKtnHst7yAjkUtdieDCqmY5KvPoeQLADErZByuHjKCF6FZr_B5JYnZ2_4_9wQdklaQTcLmZtAZxV-gDmw"
+    },
+    {
+        "model": "Mercedes",
+        "totalCars": 70,
+        "totalSellers": 21,
+        "lowestPrice": "420K",
+        "heightPrice": "980K",
+        "Img": "https://blogger.googleusercontent.com/img/a/AVvXsEhW3n2nfnnttTWlTj8aMHHcVfeuTpb_Z5MeSvbckDBeXul6BnskUrvBm8fSSrbq2VzE9HFW8pzw7XTd3YQoq8t76JljfLp2YXf8z5FGA1vQ9v0ZCFg2BgyRgu_D50MFOZFaOdwzwfOmN5ij7VeyuVt4c7GlxhnYcIqKtqt-f8QqdDyE3niNQIPTDxO1Sw",
+        "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEgkvJIh_oUky6qdzYtpwTj8hYRRApb5uBieEPkyR1Ghc1GK-hNYYMoqQVmziNZ-bb7Y5ANP5jZbR1peuBpBene-wSGwbTlg8CE_Wkt4pZ5xa3whR1OZbZL3NAZYo_AhxxFJ-dLPF7TZDXqSURGJ_rSCvqKZT00Yaztd_sOkwIejJh6F40ADyIkcy732Gg"
+    },
+    {
+        "model": "Ford",
+        "totalCars": 560,
+        "totalSellers": 45,
+        "lowestPrice": "40K",
+        "heightPrice": "230K",
+        "Img": "https://blogger.googleusercontent.com/img/a/AVvXsEijN7R2mdXK9TkImWVM6jYUPWgW_vWZ7PGRSRe4Zvrif9AHnxLFKDBdufbGLBtJhDUVQdHYWXDmwiMT-p1MZ9hggB7kumSqFqwapebZuHmqr-rvlDhUt9PJj0EVw04rFAIwF_EW_zL8mE1kbEkRcHcUZvDb-Su-BpuFIb8gXJ5606oPGq6gx8eWcqrAoA",
+        "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEgu3dbNUXDdg8CBtLZ-tIbwrElcDOu1aEI2bIqDOc8DTEdgbRNQHSeJNRohBLcwsaFuhemzO4FlJ-YBdxYv3kxbcTkW9HjorsUskpSgJyPhzOOW5RaWddogLwCuWULbhtoEY7-J8ousnJA-HEkUxCJORUxW6lQRjXYIfSKIS5SfVrQXlZyf2ZaX9KG-YQ"
+    },
+    {
+        "model": "Lamborghini",
+        "totalCars": 20,
+        "totalSellers": 4,
+        "lowestPrice": "400K",
+        "heightPrice": "670K",
+        "Img": "https://blogger.googleusercontent.com/img/a/AVvXsEidAvgx8hWZA9Xw3tWcCnLiBnZm250j5qQUDQ0JipIwuSyO18iaC_iD2uSJDjU9JvxnFGalRhITd0bVMxuNRPq4xJ4mmTPzufCBrwuh03tdYEVrcqnPQI2qq1VUf3nb5pzcaVugH47WzssTOcTQp6gRZUa_X48VvSpkQ6_nQMXcVCqKQVztYc6PgOeB6g",
+        "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEj20UpjtoETNysbMNs4LHVsImfEHFlAT-lwNB4KBoVFnzLRswu2sr_gSmND75huAkl0skAUWFQEw1vsxh9JLKHcvAa9OjbWz6sJHk7NeBN2fNLVICcZe3_rD9RZEmIW6Mx777AgeYvTzeHcpIMtzS9KGXNhS-h1pkrcgSyMM8nik5CJI1EFVxSeO6DLMg"
+    }
+]
